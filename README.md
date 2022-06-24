@@ -1,2 +1,7 @@
-# ACME-backup
-Backup del código utilizado en el desarrollo de la aplicación ACME - Backup v1.0
+# ACME APP - Open-Sec
+
+*Este repositorio se creó con fines académicos*
+
+Este repositorio es un backup del backend de la aplicación ACME APP,
+Backup versión: 3.1
+
